@@ -11,9 +11,9 @@ public class operators {
         System.out.println(a<b);
         System.out.println(a>b);
         System.out.println(a&b);
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        System.out.println(a==b);
+        System.out.println(a<=b);
+        System.out.println(a>=b);
         
     }
     
